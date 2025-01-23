@@ -5,7 +5,7 @@ This project is a movie details search website built with React.js and integrate
 ## Features
 
 - Seamless integration of the TMDB API for a comprehensive movie database.
-- Expertise in React Router, Context API, and Hooks for smooth navigation and state management.
+- Use of React Router, Context API, and Hooks for smooth navigation and state management.
 - Responsive and dynamic user interface for engaging exploration of movie information.
 
 ## Technologies Used
