@@ -1,4 +1,4 @@
-# Movie Details Search Website
+# Search Your Movie
 
 This project is a movie details search website built with React.js and integrated with the TMDB API.
 
@@ -17,4 +17,4 @@ This project is a movie details search website built with React.js and integrate
 - Hooks
 
 ## Live Website
-[Search Your Movie](https://murky-need.surge.sh/)
+https://murky-need.surge.sh/
